@@ -1,0 +1,7 @@
+PyQt5~=5.15.4
+pymodbus~=2.5.2
+numpy~=1.21.2
+pyinstaller
+
+pytest~=6.2.4
+setuptools~=57.4.0
