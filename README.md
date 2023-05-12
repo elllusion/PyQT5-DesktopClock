@@ -15,6 +15,12 @@ Requirements:
 ![System Tray](doc/screen2.png)
 **fig2. System Tray**
 
+更新说明：
+
+1. 添加 Suncalc 用于计算天文时间
+2. 添加 edge-tts 用于实现语音报时
+3. 添加 模拟时钟 实现数字/模拟双时钟
+
 ___
 ### How to create virtual environment
 **Windows**
