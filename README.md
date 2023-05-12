@@ -1,7 +1,7 @@
 ### DesktopClock
 ___
 
-Digital clock (Desktop widget).
+Desktop Clock (Desktop widget).
 
 Requirements:
 - Python 3.6
