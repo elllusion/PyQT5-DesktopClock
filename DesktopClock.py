@@ -349,7 +349,7 @@ class MainWindow(QWidget):
             self.speak(self.remind_sleep[randint(0,9)])
         elif self.isSuncalcTime(localtime, 'sunriseEnd'):
             # 天亮提醒
-            self.speak(self.remind_sleep[randint(0,9)])
+            self.speak(self.remind_wakeup[randint(0,9)])
         elif self.isSuncalcTime(localtime, 'sunset'):
             # 天黑提醒
             self.speak("主人，太阳下山回家了！")
