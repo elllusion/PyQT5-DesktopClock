@@ -352,7 +352,7 @@ class MainWindow(QWidget):
             self.speak(self.remind_wakeup[randint(0,9)])
         elif self.isSuncalcTime(localtime, 'sunset'):
             # 天黑提醒
-            self.speak("主人，太阳下山回家了！")
+            self.speak("当前天文时刻：日落结束，黑夜即将开始！")
         # 模拟时钟需要update否则秒针不走
         self.update()
         # print("SayTime 执行中...")
